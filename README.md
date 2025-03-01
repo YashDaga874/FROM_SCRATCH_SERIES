@@ -6,4 +6,4 @@ Hey there, I hope you are doing well. This is a from-scratch series of ml models
 
 
 [01] LDA - Latent Dirichlet Allocation 
- Convolutional Neural Network (CNN) - Link
+ Convolutional Neural Network (CNN) - https://coli-saar.github.io/cl19/materials/darling-lda.pdf
